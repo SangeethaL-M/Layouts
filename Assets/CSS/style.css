@@ -266,7 +266,7 @@ hr
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('Assets/Images/R12.jpg');
+    background-image: url('/Layouts/Assets/Images/R12.jpg');
     background-size: cover;
     background-position: center;
      position: relative;
