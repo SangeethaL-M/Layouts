@@ -6,7 +6,7 @@
 .section1
 {
     height:100vh;
-    background-image: url('//Assets/Images/R11.jpg');
+    background-image: url('Assets/Images/R11.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -266,7 +266,7 @@ hr
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/Assets/Images/R12.jpg');
+    background-image: url('Assets/Images/R12.jpg');
     background-size: cover;
     background-position: center;
      position: relative;
